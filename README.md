@@ -1,3 +1,0 @@
-# ABOUT-ME
-CV
-Website
